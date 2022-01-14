@@ -1,10 +1,9 @@
 {
   "name": "react-native-rich-text-editor",
   "description": "React Native Rich Editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "license": "MIT",
-  "private": false,
   "author": "Kris Nguyen <nguyenquoc.nam9c@gmail.com> (https://github.com/QuocNamIT1)",
   "repository": {
     "type": "git",

@@ -294,7 +294,7 @@ const styles = StyleSheet.create({
   },
 });
 
-RichEditorToolBar.defaultProps = {
+RichToolBar.defaultProps = {
   actions: defaultActions,
   disabled: false,
   iconTint: '#71787F',
